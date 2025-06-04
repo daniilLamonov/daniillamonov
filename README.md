@@ -9,5 +9,5 @@
 
 #### If you have any questions, please feel free to contact me via private message and I  will be happy to help you.
 #### LINKS🔽</h4>
-<a href="https://x.com/daniillamonov" target="blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-<a href='https://t.me/lamonovdanil' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://x.com/daniillamonov" target="blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/></a>
+<a href='https://t.me/lamonovdanil' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
